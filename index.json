@@ -1,0 +1,26 @@
+[
+  {
+     "id":1,
+     "title":"Ford Focus 3",
+     "img":"https://i.ytimg.com/vi/Vo7q35l83K4/maxresdefault.jpg",
+     "text":"2014 рік випуску",
+     "price":"Ціна авто 8000$\r\n,аналогічно в україні 12000$",
+     "engine":"2.0i"
+  },
+  {
+     "id":2,
+     "title":"Toyota Prius",
+     "img":"https://upload.wikimedia.org/wikipedia/commons/5/54/2019_Toyota_Prius_Business_Edition%2B_PHEV_1.8.jpg",
+     "text":"2009 рік випуску",
+     "price":"Ціна авто 10000$`\r\nЦіна аналогічно в україні 14000$",
+     "engine":"1.5i(eco)"
+  },
+  {
+     "id":3,
+     "title":"ВАЗ 2101",
+     "img":"https://i0.rst.ua/oldcars/vaz/2101/12246668-7.jpg",
+     "text":"Рік виготовлення 1982",
+     "price":"21'000 грн",
+     "engine":"1.3 бензин"
+  }
+]
